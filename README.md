@@ -36,7 +36,7 @@
 
 ### Links, Resources and Documentation
 * [PR](https://github.com/401-advanced-javascript-401d29/lab-37/pull/1)
-* [Code Sandbox - Initial Attempt](https://codesandbox.io/s/p7l842y4v7)
+* [Code Sandbox](https://codesandbox.io/s/p7l842y4v7)
 
 #### UML
 ![UML](uml.jpg)
