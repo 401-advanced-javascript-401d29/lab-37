@@ -35,7 +35,7 @@
   * user:USER (read)
 
 ### Links, Resources and Documentation
-* [PR](https://github.com/401-advanced-javascript-401d29/lab-34/pull/1)
+* [PR](https://github.com/401-advanced-javascript-401d29/lab-37/pull/1)
 * [Code Sandbox - Initial Attempt](https://codesandbox.io/s/p7l842y4v7)
 
 #### UML
